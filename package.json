@@ -1,0 +1,32 @@
+{
+  "name": "request-util",
+  "version": "1.0.0",
+  "description": "Utilities for web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrVoltz/request-util.git"
+  },
+  "keywords": [
+    "cheerio",
+    "request",
+    "promise"
+  ],
+  "author": "MrVoltz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrVoltz/request-util/issues"
+  },
+  "homepage": "https://github.com/MrVoltz/request-util#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.23",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "underscore": "^1.9.1"
+  }
+}
